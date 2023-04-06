@@ -1,5 +1,5 @@
 <template>
-  <div id="app"></div>
+  <div >print</div>
 </template>
   
   <style lang="less">

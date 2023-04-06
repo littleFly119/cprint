@@ -1,5 +1,5 @@
 <template>
-  <div id="app"></div>
+  <div>login</div>
 </template>
   
   <style lang="less">

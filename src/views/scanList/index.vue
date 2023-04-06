@@ -1,5 +1,5 @@
 <template>
-  <div id="app"></div>
+  <div >scanlist</div>
 </template>
   
   <style lang="less">

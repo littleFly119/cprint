@@ -1,5 +1,5 @@
 <template>
-  <div>help</div>
+  <div>404</div>
 </template>
   
   <style lang="less">

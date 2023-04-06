@@ -3,7 +3,6 @@
     <router-view></router-view>
   </div>
 </template>
+<script>
 
-<style lang="less">
-
-</style>
+</script>
